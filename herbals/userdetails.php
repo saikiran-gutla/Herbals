@@ -63,7 +63,7 @@
   <div class="footer">
     <div class="left_footer"><img src="comp/hsg.png" alt="" /><br />
 	<i>This page is devolpoed by HSG SOLUTIONS</i><br>
-	<i>contact us: hsgwebbuilders@gmail.com</i>
+	<i>contact us: saikiran.gutla183@gmail.com</i>
 	</div>
       <div class="right_footer">
 	  <a href="index.html">home</a> 
