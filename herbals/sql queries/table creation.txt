@@ -1,0 +1,1 @@
+create table register(username varchar(20)PRIMARY KEY, pass varchar(12) NOT NULL,mobile integer(10) NOT NULL ,email varchar(25)NOT NULL,address varchar(30)NOT NULL);

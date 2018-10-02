@@ -1,0 +1,8 @@
+1. create database as "waste"(i have temporarily used this just for checking..
+i have another db called 'herbals')else you create your own and modify in the php files...
+
+2. after creating db...create the table with the "tablecreation" file included in sql queries.
+3.to get an idea about the registration details.//for selectin
+i have queried ike this"reg insertion"
+
+4. i've created our team logo name"HSG solutions" with some detials...you can see it on footer

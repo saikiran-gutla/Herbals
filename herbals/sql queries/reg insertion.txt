@@ -1,0 +1,1 @@
+insert into registers (username,password,mobile,email,address)values('$uname','$pass1','$phone','$email','$address');
